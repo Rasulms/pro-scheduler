@@ -13,7 +13,7 @@ Make sure you have installed:
 2.MongoDB (local or Atlas)
 3.npm (comes with Node.js)
 
-**#Instruction to run backend Server**
+**Instruction to run backend Server**
 
 1.Open CMD from Backend Directory 
 2.Install dependencies: - npm install
@@ -61,7 +61,7 @@ Other Libraries:
 > MongoDB allows for flexible, document-oriented storage of appointment, provider, and user data.
 > Mongoose offers schema definitions and validations that simplify interaction with MongoDB.
 
-📅 **#Booking Flow Design**
+📅 **Booking Flow Design**
 This section outlines the logic and API interactions behind the slot booking system, including how we handle booking state , payment flow (mock/extendable), and abandoned slot cleanup.
 
 🧩 **High-Level Booking Flow**
